@@ -5,13 +5,13 @@ Esse projeto é uma aplicação de lista de tarefas feita com HTML, CSS e JavaSc
 ## 🚀 Demonstração
 
 ![image](images/final-project.png)
-[Clique aqui](https://flaviomattosdev.github.io/To-Do-List-App/) para acessar o resultado final do projeto.
+[Clique aqui](https://flaviomattosdev.github.io/To-Do-List/) para acessar o resultado final do projeto.
 
 ## 🛠️ Tecnologias Utilizadas
 
-* [HTML](https://www.w3.org/html/) - Linguagem de Marcação
-* [CSS](https://www.w3.org/Style/CSS/) - Linguagem de Estilização
-* [Javascript](https://www.w3schools.com/js/) - Linguagem de Programação
+* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) - Linguagem de Marcação
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) - Linguagem de Estilização
+* [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - Linguagem de Programação
 
 ## 👨‍💻 Desenvolvedor
 <p>
